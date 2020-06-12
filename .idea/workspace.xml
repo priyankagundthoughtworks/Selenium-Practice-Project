@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4977d05-eabf-47f4-9a2e-25f434953100" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7pgThJh1a2xIZsdC2TlDwqR9U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.loginTest">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Inetbanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testcases.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Inetbanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.loginTest" />
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4977d05-eabf-47f4-9a2e-25f434953100" name="Default Changelist" comment="" />
+      <created>1591786096607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591786096607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="253" key="#com.intellij.ide.util.ExportDialog" timestamp="1591861411061">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="478" y="253" key="#com.intellij.ide.util.ExportDialog/0.23.1680.972@0.23.1680.972" timestamp="1591861411061" />
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1591947045574">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591947045574" />
+    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1591947045573">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1591947045573" />
+    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1591947045572">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1591947045572" />
+    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1591947045573">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1591947045573" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom" timestamp="1591946679118">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591946679118" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center" timestamp="1591946679116">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1591946679116" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left" timestamp="1591946679115">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1591946679115" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right" timestamp="1591946679117">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1591946679117" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/BaseClass.java</url>
+          <line>14</line>
+          <properties field="readconfig" class="com.inetbanking.testcases.BaseClass" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/LoginTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/LoginTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
