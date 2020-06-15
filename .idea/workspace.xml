@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4977d05-eabf-47f4-9a2e-25f434953100" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testdata/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/inetbanking/testcases/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/inetbanking/testcases/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/inetbanking/testcases/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/inetbanking/testcases/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/inetbanking/testdata/ReadConfig.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +45,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testoutput" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Driver" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.loginTest">
+  <component name="RunManager" selected="TestNG./Users/priyankashravangund/Desktop/Inetbanking/testNG.xml">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Inetbanking" />
       <extension name="coverage">
@@ -80,8 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/priyankashravangund/Desktop/Inetbanking/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Inetbanking" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/priyankashravangund/Desktop/Inetbanking/testNG.xml" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
         <item itemvalue="TestNG.LoginTest" />
       </list>
@@ -101,49 +131,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="560" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591957217809">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="560" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.972@0.23.1680.972" timestamp="1591957217809" />
     <state x="478" y="253" key="#com.intellij.ide.util.ExportDialog" timestamp="1591861411061">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="478" y="253" key="#com.intellij.ide.util.ExportDialog/0.23.1680.972@0.23.1680.972" timestamp="1591861411061" />
-    <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1591947045574">
+    <state x="588" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591956551077">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591947045574" />
-    <state width="1638" height="254" key="GridCell.Tab.0.center" timestamp="1591947045573">
+    <state x="588" y="363" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.972@0.23.1680.972" timestamp="1591956551077" />
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom" timestamp="1592218413654">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1591947045573" />
-    <state width="1638" height="254" key="GridCell.Tab.0.left" timestamp="1591947045572">
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1592218413654" />
+    <state width="1638" height="314" key="GridCell.Tab.0.center" timestamp="1592218413653">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1591947045572" />
-    <state width="1638" height="254" key="GridCell.Tab.0.right" timestamp="1591947045573">
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1592218413653" />
+    <state width="1638" height="314" key="GridCell.Tab.0.left" timestamp="1592218413653">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1591947045573" />
-    <state width="1638" height="314" key="GridCell.Tab.1.bottom" timestamp="1591946679118">
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1592218413653" />
+    <state width="1638" height="314" key="GridCell.Tab.0.right" timestamp="1592218413653">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1591946679118" />
-    <state width="1638" height="314" key="GridCell.Tab.1.center" timestamp="1591946679116">
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1592218413653" />
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom" timestamp="1592218414489">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1591946679116" />
-    <state width="1638" height="314" key="GridCell.Tab.1.left" timestamp="1591946679115">
+    <state width="1638" height="314" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1592218414489" />
+    <state width="1638" height="314" key="GridCell.Tab.1.center" timestamp="1592218414485">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1591946679115" />
-    <state width="1638" height="314" key="GridCell.Tab.1.right" timestamp="1591946679117">
+    <state width="1638" height="314" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1592218414485" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left" timestamp="1592218414484">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1591946679117" />
+    <state width="1638" height="314" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1592218414484" />
+    <state width="1638" height="314" key="GridCell.Tab.1.right" timestamp="1592218414486">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1592218414486" />
+    <state x="349" y="148" key="SettingsEditor" timestamp="1591964328616">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="349" y="148" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1591964328616" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/test/java/com/inetbanking/testcases/BaseClass.java</url>
-          <line>14</line>
+          <line>16</line>
           <properties field="readconfig" class="com.inetbanking.testcases.BaseClass" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>

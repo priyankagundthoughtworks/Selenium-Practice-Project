@@ -1,4 +1,4 @@
-package com.inetbanking.testdata;
+package com.inetbanking.utilities;
 
 import java.io.File;
 import java.io.FileInputStream;
