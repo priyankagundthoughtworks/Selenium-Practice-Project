@@ -28,8 +28,8 @@ public class Reporting extends TestListenerAdapter {
         String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
         String repName="Test-Report-"+timeStamp+".html";
 
-        htmlReporter=new ExtentHtmlReporter(System.getProperty("/Users/priyankashravangund/Desktop/Inetbanking/testoutput")+repName);//specify location of the report
-        htmlReporter.loadXMLConfig(System.getProperty("/Users/priyankashravangund/Desktop/Inetbanking/extent-config.xml"));
+        htmlReporter=new ExtentHtmlReporter(System.getProperty("/Users/priyankashravangund/Desktop/Inetbanking/testoutput"+repName));//specify location of the report
+        htmlReporter.loadXMLConfig(System.getProperty("user.dir")+ "/extent-config.xml");
 
         extent=new ExtentReports();
 
@@ -50,12 +50,12 @@ public class Reporting extends TestListenerAdapter {
         logger.log(Status.PASS, MarkupHelper.createLabel(tr.getName(), ExtentColor.GREEN)); // send the passed information to the report with GREEN color highlighted
     }
 
-    public void onTestFailure(ITestResult tr)
+    /*public void onTestFailure(ITestResult tr)
     {
         logger=extent.createTest(tr.getName()); // create new entry in th report
         logger.log(Status.FAIL,MarkupHelper.createLabel(tr.getName(),ExtentColor.RED)); // send the passed information to the report with GREEN color highlighted
 
-        String screenshotPath=System.getProperty("user.dir")+"\\Screenshots\\"+tr.getName()+".png";
+        String screenshotPath=System.getProperty("/Users/priyankashravangund/Desktop/Inetbanking/Screenshort"+tr.getName()+".png");
 
         File f = new File(screenshotPath);
 
@@ -70,7 +70,7 @@ public class Reporting extends TestListenerAdapter {
             }
         }
 
-    }
+    }*/
 
     public void onTestSkipped(ITestResult tr)
     {

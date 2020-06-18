@@ -2,6 +2,7 @@ package com.inetbanking.testcases;
 
 
 import com.inetbanking.utilities.ReadConfig;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -45,4 +46,16 @@ public class BaseClass {
     {
         driver.quit();
     }
+
+    public String randomestring()
+    {
+        String generatedstring= RandomStringUtils.randomAlphabetic(8);
+        return(generatedstring);
+    }
+
+    public static String randomeNum() {
+        String generatedString2 = RandomStringUtils.randomNumeric(4);
+        return (generatedString2);
+    }
+
 }

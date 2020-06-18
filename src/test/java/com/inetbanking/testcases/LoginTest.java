@@ -17,7 +17,7 @@ public class LoginTest extends BaseClass {
         loginPage.setPassword(password);
         logger.info("enter password");
         loginPage.clickSubmit();
-
+         System.out.println(driver.getTitle());
         if (driver.getTitle().equals("Guru99 Bank Manager HomePage")){
             Assert.assertTrue(true);
             logger.info("login test passed");
